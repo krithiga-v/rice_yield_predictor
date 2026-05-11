@@ -1,0 +1,12 @@
+earthengine-api==0.1.370
+geemap
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+tensorflow
+folium
+requests
+streamlit
